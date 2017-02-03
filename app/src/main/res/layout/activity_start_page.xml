@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:gravity="center_vertical"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/TVUName"
+            android:gravity="center"
+            android:textColor="#FFFFFF"
+            android:background="#56B663"/>
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="422dp"
+            android:background="#ffffff"
+            android:id="@+id/usersListView">
+        </ListView>
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:id="@+id/btnQstn"
+        android:text="Ask Question"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:id="@+id/btnMap"
+        android:text="Location"/>
+
+
+</GridLayout>

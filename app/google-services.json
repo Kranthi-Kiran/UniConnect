@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "364750610976",
+    "firebase_url": "https://unicode-3b205.firebaseio.com",
+    "project_id": "unicode-3b205",
+    "storage_bucket": "unicode-3b205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364750610976:android:e96b59973727e3df",
+        "android_client_info": {
+          "package_name": "cs.kranthi.edu.uniconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364750610976-8mpadn47fesiks8bhvqvicc2lbhljgci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYmYbA1FFXglvhtNV5Xatx8VJkY8XTEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
